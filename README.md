@@ -1,6 +1,6 @@
 # Website Builder with Drag-and-Drop Editor
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./public/screenshot.png)
 
 A responsive drag-and-drop website builder with real-time property editing capabilities.
 
